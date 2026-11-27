@@ -1,0 +1,5 @@
+workload,config,items,mean_chars,median_us,p95_us,p99_us,mean_us,throughput_MB_s
+gretel_documents,NAIVE,2962,1424,730.5,1307.7,1725.5,753.1,3.8
+gretel_documents,VALIDATED,2962,1424,765.6,1422.1,1879.5,791.4,3.6
+loghub_lines,NAIVE,32000,138,55.7,144.5,225.1,66.0,4.2
+loghub_lines,VALIDATED,32000,138,60.2,155.1,242.2,71.3,3.9

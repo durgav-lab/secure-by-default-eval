@@ -1,0 +1,4 @@
+strategy,events,invalid_json,trace_or_span_altered,account_leaked,email_field_leaked,excerpt_gold_values,excerpt_gold_leaked
+"text-level, format-only",2962,2962,59,0,0,1212,74
+"text-level, validated",2962,2962,1,0,0,1212,274
+"field-aware, validated",2962,0,0,0,0,1212,269
