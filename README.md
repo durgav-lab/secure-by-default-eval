@@ -2,6 +2,10 @@
 
 Prototype of the field-aware redaction stage (JDK only, Java 17+) and the scripts behind Section VI.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24576969.svg)](https://doi.org/10.5281/zenodo.24576969)
+
+Archived on Zenodo: https://doi.org/10.5281/zenodo.24576969 (version used in the paper: v1.0.0)
+
 | Experiment | Class / script | Output |
 |---|---|---|
 | E1 detection on Gretel financial documents | `EvalDetection` | `results_e1.csv`, `results_e1_precision.csv` |
