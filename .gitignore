@@ -1,0 +1,12 @@
+# Datasets: download them yourself (see README)
+data/
+*.tsv
+# Generated during runs
+out/
+*.class
+e3_*.jsonl
+e3_meta.tsv
+e1_misses.tsv
+e2_examples.tsv
+/results_e*.csv
+__pycache__/
